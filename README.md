@@ -5,5 +5,8 @@ Colabarator: Bryan Cheng, TingWei Chang
 
 ## Introduction
 <p>This is for dicussion purpose only. Please DONNOT plagiarize.</p>
-* Lab1 - Single cycle MIPS simulator
-* Lab2 - Cache simulator
+
+### Lab1 - Single cycle MIPS simulator
+* SignImm unfixed.
+
+### Lab2 - Cache simulator
