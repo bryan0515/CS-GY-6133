@@ -4,8 +4,8 @@ Instructor: Siddharth Garg
 Colabarator: Bryan Cheng, TingWei Chang
 
 # Introduction
-This is for dicussion purpose only. Please DONNOT plagiarize.
+<p>This is for dicussion purpose only. Please DONNOT plagiarize.</p>
 <table>
-Lab1 - Single cycle MIPS simulator</br>
-Lab2 - Cache simulator</br>
+<tr>Lab1 - Single cycle MIPS simulator</tr>
+<tr>Lab2 - Cache simulator</tr>
 </table>
